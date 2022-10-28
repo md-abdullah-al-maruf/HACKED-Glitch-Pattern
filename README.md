@@ -1,2 +1,4 @@
 # HACKED-Glitch-Pattern
-hacked pattern print 
+Hacked pattern print in C language.
+Hacked Glitch animation in c language.
+
